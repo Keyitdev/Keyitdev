@@ -9,7 +9,7 @@ My skills:
 * CPP 3% 🙃
 
 Most of my projects are in English, but not all because eng isn't my native lang.
-You can contact me via: (coming soon).
+You can contact me via: *(coming soon)*.
 Also sorry for spelling mistakes.
 <!---
 Deerrorer/Deerrorer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
