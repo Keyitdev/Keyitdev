@@ -1,4 +1,5 @@
-# 👋 Hi
+👋 Hi
+=======
 I'm rather an amateur than a professional coder but I'm still learning.
 ## My skills:
 HTML 15%
