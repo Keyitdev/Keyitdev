@@ -19,7 +19,6 @@ Facts about me:
       <td><b>🍴 Forks</b></td>
       <td><b>🛠️ Issues</b></td>
       <td><b>📬 Pull requests</b></td>
-      <td><b>License</b></td>
     </tr>
   </thead>
   <tbody>
@@ -29,7 +28,6 @@ Facts about me:
       <td><img src="https://img.shields.io/github/forks/keyitdev/dotfiles?color=82aaff&labelColor=202328&style=for-the-badge"></td>
       <td><img src="https://img.shields.io/github/issues/keyitdev/dotfiles?color=bf616a&labelColor=202328&style=for-the-badge"></td>
       <td><img src="https://img.shields.io/github/issues-pr/keyitdev/dotfiles?color=c792ea&labelColor=202328&style=for-the-badge"></td>
-      <td><img src="https://img.shields.io/github/license/keyitdev/dotfiles?color=15121C&labelColor=202328&style=for-the-badge"></td>
     </tr>
   </tbody>
 </table>
