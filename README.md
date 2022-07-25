@@ -18,7 +18,11 @@ I use and rice Arch Linux, code some basic websites. My current goal is to impro
 ## Reach me:
 <a href="https://discord.com/users/908702082578665474" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://www.reddit.com/user/Keyitdev" target="blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+<a href="http://www.youtube.com/channel/UCVoGVyAP2sHPQyegwBMJKyQ?sub_confirmation=1" target="blank"><img src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+
 <!-- <a href="" target="blank"><img src="https://shields.io/badge/email-d44a3c?style=for-the-badge&logo=gmail&logoColor=white" /></a>  -->
+
 <!-- Discord: Keyitdev#9277
 [Reddit](https://www.reddit.com/user/Keyitdev) -->
 
+<!-- [![](https://img.shields.io/youtube/channel/subscribers/UCVoGVyAP2sHPQyegwBMJKyQ?style=for-the-badge&logo=youtube&labelColor=ff0000&color=ff0000)](http://www.youtube.com/channel/UCVoGVyAP2sHPQyegwBMJKyQ?sub_confirmation=1)  -->
