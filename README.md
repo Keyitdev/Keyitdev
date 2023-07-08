@@ -2,7 +2,7 @@
 
 ### Professional programmer and Arch enthusiast.
 
-> I code some basic websites. I also own  a youtube channel. My current goal is to improve my web development skills. I am also learning basics of *NIX like systems and other stuff...
+I code some basic websites. I also own a youtube channel. My current goal is to improve my web development skills. I am also learning basics of *NIX like systems and other stuff...
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keyitdev&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
