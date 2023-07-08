@@ -2,13 +2,13 @@
 
 ### `2023` *Professional* programmer
 
-#### `2021` Arch enthusiast
+### `2021` Arch enthusiast
 
-#### `2020` Linux user 
+### `2020` Linux user 
 
 ## Projects
 
-`2022` [Dotfiles]() 
+### `2022` [Dotfiles]() 
 
 <a href="https://www.reddit.com/user/Keyitdev" target="blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 <a href="http://www.youtube.com/channel/UCVoGVyAP2sHPQyegwBMJKyQ?sub_confirmation=1" target="blank"><img src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
