@@ -1,13 +1,13 @@
 # Keyitdev
 
-### **Professional programmer and Arch enthusiast.**
+#### **Professional programmer and Arch enthusiast.**
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keyitdev&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
 ## Socials
 
-### Need help? Or just wanna suggest something, reach me on [Discord]().
+#### Need help? Or just wanna suggest something, reach me on [Discord]().
 
 <!-- ### Check out my website **[Keyitdev]()** -->
 
