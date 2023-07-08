@@ -1,10 +1,10 @@
 # Keyitdev
 
-`2023` *Professional* programmer
+### `2023` *Professional* programmer
 
-`2021` Arch enthusiast
+#### `2021` Arch enthusiast
 
-`2020` Linux user 
+#### `2020` Linux user 
 
 ## Projects
 
