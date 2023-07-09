@@ -2,9 +2,9 @@
 
 ### *Professional* programmer and Arch enthusiast.
 
-I code some basic websites. I also own a youtube channel. My current goal is to improve my web development skills. I am also learning basics of *NIX like systems and other stuff...
+I code some basic websites. I also own a youtube channel. My current goal is to improve my web development skills. I am also learning the basics of *NIX like systems and other stuff...
 
-Feel free to use my code, most of my projects are distributed under the [GPLv3+](https://www.gnu.org/licenses/gpl-3.0.html) License. Just give me some credits, thanks!
+Feel free to use my code, most of my projects are distributed under the [GPLv3+](https://www.gnu.org/licenses/gpl-3.0.html) License. Just give me some credit, thanks!
 
 
 ## Socials
