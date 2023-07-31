@@ -22,6 +22,7 @@ Feel free to use my code, most of my projects are distributed under the [GPLv3+]
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keyitdev&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=keyitdev/dotfiles,keyitdev/sddm-astronaut-theme,keyitdev/sddm-flower-theme&type=Date)](https://star-history.com/#keyitdev/dotfiles&keyitdev/sddm-astronaut-theme&keyitdev/sddm-flower-theme&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=keyitdev/dotfiles,keyitdev/sddm-astronaut-theme,keyitdev/sddm-flower-theme&type=Date&theme=dark)](https://star-history.com/#keyitdev/dotfiles&keyitdev/sddm-astronaut-theme&keyitdev/sddm-flower-theme&Date&theme=dark)
+
 
 </details>
